@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Daxly Logo](./Logo.png)
+![Daxly Logo](https://files.catbox.moe/2v22dq.png)
 
 **Build fullstack web applications with AI assistance**
 
@@ -11,7 +11,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-blue.svg)](https://www.typescriptlang.org/)
 [![Supabase](https://img.shields.io/badge/Supabase-Latest-green.svg)](https://supabase.com/)
 
-[Demo](https://daxly.dev) • [Documentation](https://docs.daxly.dev) • [Report Bug](https://github.com/briocheeeee/daxly/issues) • [Request Feature](https://github.com/briocheeeee/daxly/issues)
+[Demo](https://daxly.dev) • [Documentation](https://daxly.dev/docs) • [Report Bug](https://github.com/briocheeeee/daxly/issues) • [Request Feature](https://github.com/briocheeeee/daxly/issues)
 
 </div>
 
@@ -260,7 +260,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 - 📖 [Documentation](https://docs.daxly.dev)
 - 💬 [Discord Community](https://discord.gg/daxly)
 - 🐛 [GitHub Issues](https://github.com/briocheeeee/daxly/issues)
-- 📧 [Email Support](mailto:support@daxly.dev)
+- 📧 [Email Support](mailto:support@china.cn)
 
 ## 📄 License
 
